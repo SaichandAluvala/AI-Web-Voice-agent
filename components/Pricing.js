@@ -77,7 +77,7 @@ function Pricing() {
                             <h3 className="text-2xl font-semibold mb-4">Enterprise</h3>
                             <div className="text-4xl font-bold mb-2">Custom</div>
                             <p className="text-gray-400 mb-8">Volume pricing</p>
-                            <ul className="space-y-3 mb-8">
+                            <ul className="space-y-3 mb-8"> 
                                 <li className="flex items-center gap-3">
                                     <i data-lucide="check" className="w-5 h-5 text-green-400"></i>
                                     <span>Volume discounts</span>
